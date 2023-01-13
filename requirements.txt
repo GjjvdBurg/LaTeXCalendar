@@ -1,1 +1,2 @@
+python-dateutil>=2.8.2
 govuk-bank-holidays>=0.12
